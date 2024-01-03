@@ -1123,7 +1123,7 @@ contract ProMax is Context, IERC20, Ownable {
     uint256 private _rTotal;
     uint256 private _tFeeTotal;
 
-    bool public mintedByMoonDeploy = true;
+    bool public mintedByhttps://x.com/VorTexVentures = true;
 
     string public _name;
     string public _symbol;

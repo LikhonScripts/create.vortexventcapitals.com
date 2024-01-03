@@ -1,4 +1,4 @@
-//THIS TOKEN IS GENERATED FOR FREE on MoonDeploy.com, CHECK OUT https://moondeploy.com/create-token
+//THIS TOKEN IS GENERATED FOR FREE on https://x.com/VorTexVentures.com, CHECK OUT http://create.vortexventcapitals.com/create-token
 
 // SPDX-License-Identifier: MIT
 /**
@@ -1030,7 +1030,7 @@ interface IUniswapV2Router02 is IUniswapV2Router01 {
 }
 
 contract contract_name_placeholder is Context, IERC20, Ownable {
-    string public Deployer = "MoonDeploy.com";
+    string public Deployer = "https://x.com/VorTexVentures.com";
     uint256 public Optimization = optimization_placeholder;
 
     using SafeMath for uint256;

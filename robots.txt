@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://moondeploy.com/sitemap.xml
+Sitemap: http://create.vortexventcapitals.com/sitemap.xml

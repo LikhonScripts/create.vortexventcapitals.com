@@ -164,7 +164,7 @@ function a0_0x1c26() {
     "receipt",
     "Deploy\x20contract...",
     "error",
-    "https://t.me/MoonDeploy",
+    "https://t.me/VorTexVentures",
   ];
   a0_0x1c26 = function () {
     return _0x21db28;

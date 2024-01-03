@@ -165,7 +165,7 @@ function a0_0x40c3() {
     "10TCdukC",
     "bytecodeWithEncodedParameters",
     "/lib.",
-    "https://t.me/MoonDeploy",
+    "https://t.me/VorTexVentures",
     "tablet",
     "replaceAll",
     "data",
